@@ -50,7 +50,7 @@ $(document).ready(function () {
 	 * 改用 JsonBird：https://bird.ioliu.cn/
 	 * 
 	 */
-	var url = 'https://bird.ioliu.cn/v1/?url=https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8';
+	var url = 'https://bird.ioliu.cn/v1/?url=https://www.bing.com/HPImageArchive.aspx?format=js&idx=3&n=1';
 	var imgUrls = JSON.parse(sessionStorage.getItem("imgUrls"));
 	var index = sessionStorage.getItem("index");
 	var $panel = $('#panel');
