@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+    align-content: center;
+}
+
+
+body {
+    background-color: black;
+}
+
+p{
+    color: white;
+}
