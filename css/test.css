@@ -18,3 +18,23 @@ body {
 p {
     color: white;
 }
+
+.bottom
+{
+    position:absolute;
+    right:0px;
+    bottom:0px;
+    background:#000000;
+    color:#BFC4D4;
+    display:block;
+    width:100%;
+    text-align:center;
+    z-index: 10;
+}
+.bottom span
+{
+    position:relative;
+    display:block;
+    left:0;
+
+}
